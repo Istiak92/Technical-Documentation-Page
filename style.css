@@ -51,7 +51,7 @@ body{
     font-size: 25px;
 }
 .nav-link:hover{
-    color:#d74d63;sped
+    color:rgb(216, 212, 212);
   }
 
 @media screen and (max-width:500px){
