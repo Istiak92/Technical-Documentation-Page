@@ -1,10 +1,11 @@
 body{
-    background-color: green;
+    background-color: #ffffff;
+    background-image: url("https://img.freepik.com/free-vector/white-abstract-background_23-2148812993.jpg?size=626&ext=jpg");
 }
   #main-doc{
     margin:0px;
     margin-left:250px;
-    background-color: cornsilk;
+    background-color: rgb(255, 249, 230);
     padding-left: 20px;
     padding-bottom: 10px;
     border-radius: 10px;
@@ -23,7 +24,7 @@ body{
 
 #navbar{
     position: fixed;
-    background-color: #b3ffcc;
+    background-color: #ffffff;
     padding: 10px;
     margin: 0px;
     border-radius: 10px;
@@ -51,7 +52,7 @@ body{
     font-size: 25px;
 }
 .nav-link:hover{
-    color:#d74d63;sped
+    color:rgb(216, 212, 212);
   }
 
 @media screen and (max-width:500px){
